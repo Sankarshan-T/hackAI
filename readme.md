@@ -5,5 +5,5 @@ hackAI is a YSWS by Hackclub where You need to design and develop a real-world a
 ## Has the event started yet?
 No hackAi is still a prototype and will be be started soon.
 
-## (RSVP here)[https://forms.fillout.com/t/hgZBPbzkndus]
+## [RSVP here](https://forms.fillout.com/t/hgZBPbzkndus)
 
